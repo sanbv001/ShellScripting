@@ -1,0 +1,3 @@
+((area=25*25))
+echo $area
+
